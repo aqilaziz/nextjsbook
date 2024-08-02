@@ -1,4 +1,4 @@
-const UserReposPage = () => {
-    return <div>Users Repo Page</div>
+const UserReposPage = ({params:{user}}) => {
+    return <div>Ini halaman user repo page {user}</div>
     }
     export default UserReposPage;
