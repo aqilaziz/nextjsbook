@@ -34,7 +34,7 @@ export default function RootLayout({ children }) {
                   <Link href="/about/contact/greg">Greg</Link>
                 </li>
                 <li>
-                  <Link href="/githubuser">GitHubUser</Link>
+                  <Link href="/githubusers">GitHubUser</Link>
                 </li>
               </ul>
             </div>
